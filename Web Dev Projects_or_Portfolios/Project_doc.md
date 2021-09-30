@@ -13,3 +13,9 @@
 <b>Budget Manager Chrome Extension</b> (by https://github.com/Suvidnya)
 <br>
 - This is a budget manager chrome extension. (built with HTML, CSS, jQuery, JavaScript, JSON)
+
+<br>
+<b><h3>Music Player</h3></b>
+<br>
+- Listen and relax by playing or pausing your song. Move to next or back anytime you want.(built with HYML,CSS and JS)
+
