@@ -19,3 +19,8 @@
 <br>
 - Website for e-IPL Auction event. (built with HTML, CSS and JavaScript)
 
+<br>
+<b><h3>Music Player</h3></b> 
+<br>
+- Listen and relax by playing or pausing your song. Move to next or back anytime you want. (built with HTML, CSS and JavaScript)
+
